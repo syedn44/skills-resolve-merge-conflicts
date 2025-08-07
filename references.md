@@ -1,3 +1,3 @@
-hello
+# References
 
-conflicting references.md
+* octocat 1 😈
